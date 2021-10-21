@@ -2,9 +2,9 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Relevant Coursework
 type: page
 view: 2
 ---
 
-I teach the following courses:
+I have taken the following courses:
