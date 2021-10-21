@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 'Skilled in R/RStudio'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: 'Proficient in ArcGIS'
+  icon: 'gis'
+  icon_pack: custom
+  name: ArcGIS
+- description: 'Gold Seal of Bilingualism in Spanish'
+  icon: 'language'
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Spanish Fluency
+- description: 'Proficient in Adobe Photoshop'
+  icon: 'photoshop'
+  icon_pack: custom
+  name: Adobe Photoshop
+- description: 'Skilled in Python'
+  icon: 'python'
+  icon_pack: fab
+  name: Python
+- description: 'Experienced with Microsoft Excel'
+  icon: 'excel'
+  icon_pack: custom
+  name: Microsoft Excel
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
