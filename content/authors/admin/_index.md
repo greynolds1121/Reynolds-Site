@@ -35,7 +35,12 @@ superuser: true
 title: Gabriel Reynolds
 ---
 
-Gabriel Reynolds is a student of environmental studies, community and global health, and data science at Macalester College. His research interests include quantitative public health, climate justice, and infectious disease epidemiology. [ADD MORE BIO INFO]
+My name is Gabriel Reynolds (he/him). I’m currently a student of environmental studies, community and global health, and data science at Macalester College. My research interests include quantitative public health, climate justice, and infectious disease epidemiology. 
+
+I was born and raised in St. Paul, Minnesota and have been happy to continue calling the Twin Cities my home throughout college. Looking to the future, I am determined to carve out a career in quantitative public health. Specifically, I am hoping to leverage my data analysis, GIS, and analytical thinking skills to develop better public health practices and interventions that are rooted in justice and sustainability. 
+
+I am hard working, detail oriented, and bring a passion for learning. Combined with strong communication skills, experience with teamwork and independent projects, and skills in qualitative and quantitative research, I hope to activate and mobilize teams around a vision.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Gabriel Reynolds Resume October 20.pdf" "newtab" >}}resumé{{< /staticref >}}.
