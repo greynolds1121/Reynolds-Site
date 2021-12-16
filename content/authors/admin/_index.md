@@ -44,3 +44,5 @@ I am hard working, detail oriented, and bring a passion for learning. Combined w
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Gabriel Reynolds Resume October 20.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="chalkboard-teacher" pack="fas" >}} View my [coursework]({{< relref "/courses" >}}). 
